@@ -1,0 +1,1 @@
+//nice select$(document).ready(function () {	$('select').niceSelect();});//input range$('input[type=range]').on('input', function(){	var val = $(this).val();	$(this).css('background', 'linear-gradient(to right, #102E81 0%, #102E81 '+ val +'%, #ccc ' + val + '%, #ccc 100%)');});
