@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="11cb772a-f3b9-4457-a3f1-bcb684fff703" name="ai_literacy">
+        <fileTransfer rootFolder="/var/www/mastercool/ai_literacy_2605" accessType="SFTP" host="mastercool.kr" port="22" sshConfigId="52eb2d38-cb13-4af8-b68d-53be64a4672b" sshConfig="mastercool@mastercool.kr:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
